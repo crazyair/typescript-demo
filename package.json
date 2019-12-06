@@ -1,0 +1,6 @@
+{
+  "name": "demo",
+  "scripts": {
+    "demo": "tsc --noEmit true src/demo.tsx"
+  }
+}
